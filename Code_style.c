@@ -65,7 +65,7 @@
   */
   int food (void)
   {
-    int  num[3][3] =
+    int num[3][3] =
     {
       { 0, 0, 0 },
       { 0, 0, 0 },
